@@ -11,7 +11,7 @@ Track and display your current browser activity in Discord with rich presence in
 
 ## Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js 
 - Discord application
 - Browser
 - Discord desktop client
