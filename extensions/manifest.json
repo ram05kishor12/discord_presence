@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Discord Browser Presence",
+    "version": "1.0",
+    "description": "Shows your current browsing activity in Discord",
+    "permissions": [
+      "tabs"
+    ],
+    "host_permissions": [
+      "http://localhost:3000/*"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
